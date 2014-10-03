@@ -1,0 +1,35 @@
+DONT FOR TO SETUP WORKSPACE FOURTH TO LAST LESSON`1
+
+How did viewing a diff between two files help you to spot the bug.
+
+  diff -u file1 file2
+
+  a quick list is generated showing the lines that changed.
+  You can quickly search this smaller list of changes for errors.
+
+How could having easy access to the entire history file make you a more efficient programmer in the long term?
+
+  You would be able to find errors faster.
+  You would be able to go back to a previous version when things worked correctly.
+
+Pros and Cons of manual commit
+  You can save your progress at logical points making things easier to sort later
+  Con would be you might forget to save or something may occur to prevent saving at a critical point thus losing large amounts of work.
+
+Why do some version control allow multiple file saving on one commit.
+
+  Many times a change may occur among several files.  Shared variables and whatnot.
+
+How can you use git log and git diff to view history of files?
+
+  git log (when in the clone dir) displays all of the changes made.
+  git diff allows you to compare the changes in files
+
+How might using version control make you more confident in making changes that could break your code.
+
+  Instead of being afraid of one or two lines of code ruining an entire program or creating a while new problem you can simply revert back to a previous version and the be rid of or solve the problem.
+
+What do you want to use git for?
+
+Gaining experience at programming.
+
