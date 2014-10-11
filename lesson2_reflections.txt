@@ -1,0 +1,25 @@
+What happens when you initialize a repository?  Why do you need it?
+
+a .git folder is created.  It is needed to begin tracking commits to that file.
+
+
+Staging area vs. working directory and repository? 
+The staging area is the added files that are ready to be committed to the repository.  The working directory is the modifications you have made.  You can check the differences by running to git diff to check the changes made and git add when you are satisified.  Git diff --staged will compare the staging area with the repository.  When everything is how it should be you can commit the staging area to the repository.
+
+BRANCHING
+git branch newbranch
+
+CHECKOUT
+git checkout master
+switches to the new branch
+
+branch allows better functionality for different versions of the same file.
+you can make easy and hard version or a version that does one thing and a similar
+version that does something else.
+
+DIAGRAM BRANCHES
+Branches can get confusing it is easier to keep track of what is where by diagramming on paper.
+
+SHOW
+git show compares a commit to its parent in case you don't know the parent
+
