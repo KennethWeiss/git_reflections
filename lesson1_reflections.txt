@@ -33,3 +33,6 @@ What do you want to use git for?
 
 Gaining experience at programming.
 
+GET THE FILES FROM NET
+git clone https://github.com/udacity/asteroids.git
+
