@@ -1,0 +1,9 @@
+Starting GITHUB
+
+in terminal
+git remote
+git remote add branchname (origin) url
+git remote  (to verify)
+git remote -v (shows push fetch)
+git push remotebranch master
+

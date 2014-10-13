@@ -23,3 +23,8 @@ Branches can get confusing it is easier to keep track of what is where by diagra
 SHOW
 git show compares a commit to its parent in case you don't know the parent
 
+Easier Log
+git log --graph --oneline
+
+PROS AND CONS OF MERGE
+IT
