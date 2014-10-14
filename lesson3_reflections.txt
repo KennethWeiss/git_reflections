@@ -10,17 +10,17 @@ git push remotebranch master
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+Keeping a remote repository allows you to access files from other computers and allows you to share your files with others.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks are a copy of someone elses file onto your repository.  It gives them credit.  Clones make a copy of a branch onto your local computer. Branches are diferent parts of a file.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
